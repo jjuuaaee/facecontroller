@@ -1,0 +1,11 @@
+string mode
+bool speech
+bool face
+bool gesture
+string text
+---
+bool success
+
+
+
+

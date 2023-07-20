@@ -1,0 +1,5 @@
+string[] units
+int64[] durations
+---
+bool success
+int32 errorID

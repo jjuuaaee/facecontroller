@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+  <name>behavior_expression_skill_msg</name>
+  <version>0.0.1</version>
+  <description>
+    behavior_expression_skill_msg for rosjava.
+  </description>
+  <maintainer email="19cyj88@gmail.com">YuJung Chae</maintainer>
+  <author>YuJung Chae</author>
+  <license>KIST</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>message_generation</build_depend>
+  <build_depend>std_msgs</build_depend>
+
+  <run_depend>message_runtime</run_depend>
+  <run_depend>std_msgs</run_depend>
+
+</package>
+

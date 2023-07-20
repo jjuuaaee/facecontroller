@@ -1,0 +1,7 @@
+string name
+float64 level
+float64 speed
+float64 length
+---
+bool result
+
