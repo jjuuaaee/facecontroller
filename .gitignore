@@ -25,8 +25,6 @@ stt_interface/
 two_iot_goingout_detection/
 video_call/
 youtube_video/
-behavior_expression_skill_msg/CMakeLists.txt
-white_face_controller/CMakeLists.txt
 white_face_controller/.idea/
 white_face_controller/scripts/__pycache__/
 white_face_controller/scripts/face_generator_package/__pycache__/
